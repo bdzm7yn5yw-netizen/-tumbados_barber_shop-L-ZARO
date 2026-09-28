@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tumbados Barberia L-ZARO</title>
+<style>
+body{background:#000;color:#fff;font-family:Arial;text-align:center;padding:25px;margin:0}
+h1{font-size:34px;margin:20px 0 10px;letter-spacing:1px}
+p{color:#aaa;font-size:18px}
+.btn{display:block;padding:18px;margin:15px 0;border-radius:14px;text-decoration:none;font-weight:bold;font-size:19px}
+.whats{background:#25D366;color:#fff}
+.insta{background:#fff;color:#000}
+.maps{background:#222;color:#fff;border:1px solid #444}
+.footer{margin-top:50px;color:#555;font-size:13px}
+</style>
+</head>
+<body>
+<h1>TUMBADOS<br>BARBERIA L-ZARO</h1>
+<p>Corte tumbado - Fade - Diseño</p>
+
+<a class="btn whats" href="https://wa.me/5212220000000?text=Hola,%20quiero%20agendar%20un%20corte">WhatsApp - Agendar Cita</a>
+<a class="btn insta" href="https://instagram.com/">Instagram</a>
+<a class="btn maps" href="https://maps.google.com/">
